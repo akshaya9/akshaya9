@@ -15,12 +15,11 @@ A driven Software Engineer with 2+ years of hands-on experience in cloud technol
 
 ![](https://komarev.com/ghpvc/?username=akshaya9&color=yellowgreen)
 
-<!--
 You can connect with me at -
+[E-mail](mailto:akshayasunkari9@gmail.com)
+[Website](https://akshaya9.github.io/)
+[Linkedin](https://www.linkedin.com/in/akshayasunkari/)
 
-[website]: https://akshaya9.github.io/
-[linkedin]: https://www.linkedin.com/in/akshayasunkari/
+<!--
 [medium]: https://medium.com/@akshayasunkari9 
-[gmail]: akshayasunkari9@gmail.com
-
 -->
