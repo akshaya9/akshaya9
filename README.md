@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there 👋, I'm Akshaya Sunkari</h1>
 
-<h3 align="center"> Software Engineer </h3>
+<h3 align="center"> Software Engineer | Cloud | DevOps </h3>
 
 A driven Software Engineer with 2+ years of hands-on experience in software development and cloud technologies. Demonstrated expertise in designing and deploying scalable cloud solutions, optimizing CI/CD pipelines, and implementing event-driven microservice architectures. Strong object-oriented design skills, a deep understanding of distributed systems, and a focus on clean, maintainable code with high-quality testing and automation.
 
