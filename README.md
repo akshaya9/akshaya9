@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Software Engineer | Cloud | DevOps </h3>
 
-A driven Software Engineer with 2+ years of hands-on experience in software development and cloud technologies. Demonstrated expertise in designing and deploying scalable cloud solutions, optimizing CI/CD pipelines, and implementing event-driven microservice architectures. Strong object-oriented design skills, a deep understanding of distributed systems, and a focus on clean, maintainable code with high-quality testing and automation.
+A driven Cloud and DevOps Engineer with 2 years of experience in deploying, automating, and maintaining secure and scalable cloud infrastructure. I specialize in Azure-based solutions and have hands-on experience with Infrastructure as Code using Terraform and ARM templates, automation with PowerShell and Python, and container orchestration using Docker and Kubernetes.
 
 ![](https://komarev.com/ghpvc/?username=akshaya9&color=yellowgreen)
 
