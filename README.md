@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there 👋, I'm Akshaya Sunkari</h1>
 
 <h3 align="center"> Cloud | AI | Software Engineer </h3>
-
-A driven Cloud and AI Engineer with 2 years of experience in deploying, automating, and maintaining secure and scalable cloud infrastructure. I specialize in Azure-based solutions and have hands-on experience with Infrastructure as Code using Terraform and ARM templates, automation with PowerShell and Python, and container orchestration using Docker and Kubernetes.
+A driven AI and Cloud Engineer with 2 years of experience designing, deploying, and operationalizing secure and scalable GenAI solutions on the cloud. I specialize in Azure AI and AI Foundry, with hands-on experience building LLM-powered applications, RAG pipelines, and agentic AI workflows. 
 
 ![](https://komarev.com/ghpvc/?username=akshaya9&color=yellowgreen)
 
