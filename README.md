@@ -17,7 +17,9 @@ You can connect with me at -
 [Linkedin](https://www.linkedin.com/in/akshayasunkari/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya9&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya9&layout=compact) -->
+![Akshaya's Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=github_dark)
+
 <!--
 [medium]: https://medium.com/@akshayasunkari9 
 -->
